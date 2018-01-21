@@ -1,0 +1,14 @@
+D'Angelo Russell:1626156:{'AST': 5.4, 'STL': 1.6, 'MIN': 36.0, 'BLK': 0.1, 'REB': 3.2, 'PTS': 19.6}
+Nik Stauskas:203917:{'AST': 3.8, 'STL': 0.6, 'MIN': 28.7, 'BLK': 0.3, 'REB': 3.0, 'PTS': 10.2}
+Jahlil Okafor:1626143:{'AST': 1.5, 'STL': 0.6, 'MIN': 20.9, 'BLK': 0.8, 'REB': 4.6, 'PTS': 11.7}
+Jeremy Lin:202391:{'AST': 5.7, 'STL': 1.6, 'MIN': 28.7, 'BLK': 0.4, 'REB': 5.4, 'PTS': 16.7}
+Spencer Dinwiddie:203915:{'AST': 3.0, 'STL': 1.4, 'MIN': 22.5, 'BLK': 0.5, 'REB': 2.9, 'PTS': 9.5}
+DeMarre Carroll:201960:{'AST': 1.0, 'STL': 0.9, 'MIN': 20.9, 'BLK': 0.3, 'REB': 2.1, 'PTS': 6.5}
+Joe Harris:203925:{'AST': 0.6, 'STL': 0.3, 'MIN': 20.3, 'BLK': 0.3, 'REB': 2.4, 'PTS': 6.8}
+Quincy Acy:203112:{'AST': 0.7, 'STL': 0.6, 'MIN': 17.7, 'BLK': 0.2, 'REB': 3.4, 'PTS': 4.7}
+Isaiah Whitehead:1627785:{'AST': 2.6, 'STL': 0.7, 'MIN': 23.2, 'BLK': 0.5, 'REB': 2.8, 'PTS': 5.9}
+Timofey Mozgov:202389:{'AST': 1.0, 'STL': 0.3, 'MIN': 16.5, 'BLK': 0.9, 'REB': 5.4, 'PTS': 4.9}
+Caris LeVert:1627747:{'AST': 1.9, 'STL': 0.4, 'MIN': 24.0, 'BLK': 0.2, 'REB': 4.3, 'PTS': 11.0}
+Rondae Hollis-Jefferson:1626178:{'AST': 2.2, 'STL': 1.5, 'MIN': 27.3, 'BLK': 0.8, 'REB': 7.9, 'PTS': 10.6}
+Allen Crabbe:203459:{'AST': 1.3, 'STL': 1.1, 'MIN': 28.6, 'BLK': 1.0, 'REB': 3.2, 'PTS': 12.0}
+Tyler Zeller:203092:{'AST': 0.6, 'STL': 0.0, 'MIN': 8.1, 'BLK': 0.2, 'REB': 1.5, 'PTS': 3.6}

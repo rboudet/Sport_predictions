@@ -1,0 +1,12 @@
+JaMychal Green:203210:{'AST': 0.8, 'STL': 0.2, 'MIN': 22.2, 'BLK': 0.1, 'REB': 4.7, 'PTS': 8.5}
+Jarell Martin:1626185:{'AST': 0.2, 'STL': 0.4, 'MIN': 7.4, 'BLK': 0.1, 'REB': 2.1, 'PTS': 1.7}
+Andrew Harrison:1626150:{'AST': 2.4, 'STL': 0.6, 'MIN': 20.9, 'BLK': 0.3, 'REB': 2.4, 'PTS': 6.1}
+Wayne Selden:1627782:{'AST': 1.2, 'STL': 0.4, 'MIN': 18.8, 'BLK': 0.1, 'REB': 1.1, 'PTS': 5.3}
+James Ennis III:203516:{'AST': 1.4, 'STL': 0.9, 'MIN': 24.3, 'BLK': 0.1, 'REB': 5.7, 'PTS': 5.6}
+Mike Conley:201144:{'AST': 6.3, 'STL': 1.2, 'MIN': 32.8, 'BLK': 0.2, 'REB': 2.6, 'PTS': 23.7}
+Tyreke Evans:201936:{'AST': 2.4, 'STL': 1.0, 'MIN': 22.2, 'BLK': 0.1, 'REB': 3.2, 'PTS': 10.9}
+Deyonta Davis:1627738:{'AST': 0.0, 'STL': 0.2, 'MIN': 5.1, 'BLK': 0.2, 'REB': 0.8, 'PTS': 0.9}
+Ben McLemore:203463:{'AST': 1.1, 'STL': 0.4, 'MIN': 24.2, 'BLK': 0.1, 'REB': 4.4, 'PTS': 13.2}
+Chandler Parsons:202718:{'AST': 2.1, 'STL': 0.5, 'MIN': 22.0, 'BLK': 0.3, 'REB': 3.0, 'PTS': 5.3}
+Marc Gasol:201188:{'AST': 5.5, 'STL': 0.7, 'MIN': 33.5, 'BLK': 1.2, 'REB': 7.0, 'PTS': 16.0}
+Brandan Wright:201148:{'AST': 0.8, 'STL': 0.4, 'MIN': 20.4, 'BLK': 1.1, 'REB': 2.9, 'PTS': 7.1}

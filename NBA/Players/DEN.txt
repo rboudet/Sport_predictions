@@ -1,0 +1,14 @@
+Darrell Arthur:201589:{'AST': 0.8, 'STL': 0.7, 'MIN': 14.1, 'BLK': 0.5, 'REB': 2.7, 'PTS': 5.1}
+Emmanuel Mudiay:1626144:{'AST': 3.1, 'STL': 0.3, 'MIN': 16.4, 'BLK': 0.1, 'REB': 2.4, 'PTS': 8.4}
+Paul Millsap:200794:{'AST': 3.3, 'STL': 0.7, 'MIN': 33.2, 'BLK': 0.7, 'REB': 6.9, 'PTS': 17.9}
+Will Barton:203115:{'AST': 3.5, 'STL': 0.6, 'MIN': 26.3, 'BLK': 0.5, 'REB': 3.2, 'PTS': 15.1}
+Trey Lyles:1626168:{'AST': 0.2, 'STL': 0.1, 'MIN': 7.5, 'BLK': 0.1, 'REB': 1.9, 'PTS': 2.3}
+Gary Harris:203914:{'AST': 3.9, 'STL': 1.0, 'MIN': 34.8, 'BLK': 0.0, 'REB': 3.7, 'PTS': 15.3}
+Nikola Jokic:203999:{'AST': 6.0, 'STL': 1.1, 'MIN': 31.4, 'BLK': 0.9, 'REB': 11.7, 'PTS': 18.5}
+Wilson Chandler:201163:{'AST': 1.4, 'STL': 0.2, 'MIN': 29.2, 'BLK': 0.5, 'REB': 5.9, 'PTS': 13.6}
+Richard Jefferson:2210:{'AST': 1.0, 'STL': 0.5, 'MIN': 17.2, 'BLK': 0.1, 'REB': 2.4, 'PTS': 4.3}
+Mason Plumlee:203486:{'AST': 1.2, 'STL': 0.4, 'MIN': 21.3, 'BLK': 1.5, 'REB': 5.3, 'PTS': 8.9}
+Malik Beasley:1627736:{'AST': 0.8, 'STL': 0.4, 'MIN': 10.4, 'BLK': 0.0, 'REB': 1.1, 'PTS': 5.1}
+Jamal Murray:1627750:{'AST': 4.0, 'STL': 1.1, 'MIN': 29.8, 'BLK': 0.3, 'REB': 3.3, 'PTS': 13.0}
+Kenneth Faried:202702:{'AST': 0.9, 'STL': 0.7, 'MIN': 17.7, 'BLK': 0.4, 'REB': 6.1, 'PTS': 8.8}
+Juan Hernangomez:1627823:{'AST': 0.5, 'STL': 0.4, 'MIN': 15.7, 'BLK': 0.0, 'REB': 3.0, 'PTS': 5.2}

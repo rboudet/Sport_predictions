@@ -1,0 +1,13 @@
+Enes Kanter:202683:{'AST': 0.4, 'STL': 0.4, 'MIN': 19.4, 'BLK': 0.1, 'REB': 5.3, 'PTS': 12.4}
+Ramon Sessions:201196:{'AST': 2.0, 'STL': 0.4, 'MIN': 15.4, 'BLK': 0.0, 'REB': 1.4, 'PTS': 6.2}
+Tim Hardaway Jr.:203501:{'AST': 3.4, 'STL': 0.4, 'MIN': 34.7, 'BLK': 0.1, 'REB': 4.4, 'PTS': 17.1}
+Courtney Lee:201584:{'AST': 2.9, 'STL': 1.7, 'MIN': 31.3, 'BLK': 0.3, 'REB': 4.0, 'PTS': 12.2}
+Kristaps Porzingis:204001:{'AST': 2.0, 'STL': 0.9, 'MIN': 32.1, 'BLK': 2.0, 'REB': 6.9, 'PTS': 18.3}
+Michael Beasley:201563:{'AST': 0.4, 'STL': 0.6, 'MIN': 16.5, 'BLK': 0.6, 'REB': 2.9, 'PTS': 10.8}
+Kyle O'Quinn:203124:{'AST': 1.7, 'STL': 0.3, 'MIN': 17.6, 'BLK': 1.8, 'REB': 5.8, 'PTS': 6.4}
+Joakim Noah:201149:{'AST': 2.0, 'STL': 0.5, 'MIN': 19.5, 'BLK': 0.7, 'REB': 8.2, 'PTS': 2.6}
+Willy Hernangomez:1626195:{'AST': 2.4, 'STL': 0.9, 'MIN': 26.3, 'BLK': 0.1, 'REB': 8.9, 'PTS': 13.6}
+Doug McDermott:203926:{'AST': 0.4, 'STL': 0.2, 'MIN': 16.4, 'BLK': 0.1, 'REB': 1.8, 'PTS': 5.3}
+Ron Baker:1627758:{'AST': 4.3, 'STL': 0.7, 'MIN': 29.8, 'BLK': 0.2, 'REB': 3.1, 'PTS': 6.6}
+Lance Thomas:202498:{'AST': 1.3, 'STL': 0.4, 'MIN': 28.1, 'BLK': 0.1, 'REB': 5.8, 'PTS': 8.3}
+Jarrett Jack:101127:{'AST': 2.5, 'STL': 1.0, 'MIN': 16.5, 'BLK': 0.0, 'REB': 0.0, 'PTS': 3.0}

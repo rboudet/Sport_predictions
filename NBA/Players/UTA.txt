@@ -1,0 +1,11 @@
+Joe Ingles:204060:{'AST': 4.3, 'STL': 1.7, 'MIN': 30.7, 'BLK': 0.2, 'REB': 3.8, 'PTS': 8.7}
+Ricky Rubio:201937:{'AST': 9.7, 'STL': 1.1, 'MIN': 35.3, 'BLK': 0.2, 'REB': 4.9, 'PTS': 16.8}
+Rodney Hood:203918:{'AST': 1.4, 'STL': 0.7, 'MIN': 23.0, 'BLK': 0.2, 'REB': 3.1, 'PTS': 10.4}
+Joe Johnson:2207:{'AST': 2.7, 'STL': 0.5, 'MIN': 26.3, 'BLK': 0.5, 'REB': 3.2, 'PTS': 13.2}
+Jonas Jerebko:201973:{'AST': 1.5, 'STL': 0.0, 'MIN': 11.9, 'BLK': 0.0, 'REB': 3.7, 'PTS': 3.2}
+Alec Burks:202692:{'AST': 0.6, 'STL': 0.2, 'MIN': 15.2, 'BLK': 0.1, 'REB': 3.5, 'PTS': 4.7}
+Dante Exum:203957:{'AST': 2.1, 'STL': 0.4, 'MIN': 21.7, 'BLK': 0.2, 'REB': 2.6, 'PTS': 5.5}
+Derrick Favors:202324:{'AST': 1.4, 'STL': 0.8, 'MIN': 24.7, 'BLK': 0.7, 'REB': 6.1, 'PTS': 10.9}
+Thabo Sefolosha:200757:{'AST': 1.6, 'STL': 1.0, 'MIN': 23.7, 'BLK': 0.4, 'REB': 4.7, 'PTS': 5.1}
+Raul Neto:203526:{'AST': 1.3, 'STL': 0.8, 'MIN': 12.5, 'BLK': 0.5, 'REB': 0.9, 'PTS': 3.5}
+Rudy Gobert:203497:{'AST': 1.2, 'STL': 0.2, 'MIN': 34.4, 'BLK': 2.8, 'REB': 12.6, 'PTS': 17.6}

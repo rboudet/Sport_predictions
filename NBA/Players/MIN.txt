@@ -1,0 +1,14 @@
+Jeff Teague:201952:{'AST': 7.4, 'STL': 0.8, 'MIN': 32.6, 'BLK': 0.0, 'REB': 2.4, 'PTS': 15.4}
+Tyus Jones:1626145:{'AST': 3.4, 'STL': 0.9, 'MIN': 13.1, 'BLK': 0.1, 'REB': 1.4, 'PTS': 3.7}
+Anthony Brown:1626148:{'AST': 0.8, 'STL': 0.4, 'MIN': 15.1, 'BLK': 0.0, 'REB': 3.2, 'PTS': 4.3}
+Gorgui Dieng:203476:{'AST': 2.8, 'STL': 1.0, 'MIN': 36.0, 'BLK': 1.5, 'REB': 8.6, 'PTS': 10.2}
+Nemanja Bjelica:202357:{'AST': 1.8, 'STL': 0.6, 'MIN': 24.2, 'BLK': 0.7, 'REB': 6.4, 'PTS': 8.4}
+Jamal Crawford:2037:{'AST': 2.0, 'STL': 0.5, 'MIN': 25.3, 'BLK': 0.0, 'REB': 1.1, 'PTS': 13.0}
+Marcus Georges-Hunt:1627875:{'AST': 0.6, 'STL': 0.2, 'MIN': 9.5, 'BLK': 0.0, 'REB': 1.8, 'PTS': 2.8}
+Shabazz Muhammad:203498:{'AST': 0.3, 'STL': 0.3, 'MIN': 16.7, 'BLK': 0.1, 'REB': 2.5, 'PTS': 10.6}
+Andrew Wiggins:203952:{'AST': 1.9, 'STL': 0.9, 'MIN': 36.8, 'BLK': 0.3, 'REB': 4.0, 'PTS': 27.0}
+Jimmy Butler:202710:{'AST': 6.8, 'STL': 1.9, 'MIN': 38.1, 'BLK': 0.6, 'REB': 6.1, 'PTS': 27.3}
+Aaron Brooks:201166:{'AST': 1.6, 'STL': 0.1, 'MIN': 16.7, 'BLK': 0.1, 'REB': 1.3, 'PTS': 6.0}
+Karl-Anthony Towns:1626157:{'AST': 2.3, 'STL': 1.1, 'MIN': 37.6, 'BLK': 0.6, 'REB': 13.3, 'PTS': 30.0}
+Cole Aldrich:202332:{'AST': 0.0, 'STL': 0.2, 'MIN': 5.6, 'BLK': 0.3, 'REB': 1.2, 'PTS': 1.3}
+Taj Gibson:201959:{'AST': 0.4, 'STL': 0.6, 'MIN': 19.4, 'BLK': 0.7, 'REB': 4.5, 'PTS': 9.2}

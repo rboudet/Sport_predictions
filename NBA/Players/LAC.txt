@@ -1,0 +1,11 @@
+Montrezl Harrell:1626149:{'AST': 0.6, 'STL': 0.1, 'MIN': 16.5, 'BLK': 0.8, 'REB': 3.7, 'PTS': 8.1}
+DeAndre Jordan:201599:{'AST': 1.3, 'STL': 0.9, 'MIN': 33.3, 'BLK': 1.5, 'REB': 15.6, 'PTS': 14.2}
+Sam Dekker:1626155:{'AST': 0.4, 'STL': 0.2, 'MIN': 14.0, 'BLK': 0.1, 'REB': 3.4, 'PTS': 3.8}
+Danilo Gallinari:201568:{'AST': 2.7, 'STL': 0.3, 'MIN': 34.1, 'BLK': 0.3, 'REB': 6.1, 'PTS': 20.9}
+Brice Johnson:1627744:{'AST': 0.3, 'STL': 0.7, 'MIN': 3.1, 'BLK': 0.3, 'REB': 1.0, 'PTS': 1.3}
+Patrick Beverley:201976:{'AST': 3.9, 'STL': 1.0, 'MIN': 31.3, 'BLK': 0.1, 'REB': 6.5, 'PTS': 10.7}
+Lou Williams:101150:{'AST': 2.3, 'STL': 0.5, 'MIN': 28.3, 'BLK': 0.1, 'REB': 4.0, 'PTS': 15.4}
+Austin Rivers:203085:{'AST': 1.5, 'STL': 0.1, 'MIN': 25.9, 'BLK': 0.0, 'REB': 2.2, 'PTS': 11.4}
+Blake Griffin:201933:{'AST': 4.0, 'STL': 1.2, 'MIN': 35.6, 'BLK': 0.1, 'REB': 7.1, 'PTS': 22.9}
+Wesley Johnson:202325:{'AST': 0.2, 'STL': 0.1, 'MIN': 8.9, 'BLK': 0.4, 'REB': 1.4, 'PTS': 1.1}
+Willie Reed:203186:{'AST': 0.3, 'STL': 0.2, 'MIN': 14.5, 'BLK': 0.4, 'REB': 5.0, 'PTS': 4.9}

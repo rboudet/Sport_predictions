@@ -1,0 +1,12 @@
+Alex Poythress:1627816:{'AST': 0.8, 'STL': 0.5, 'MIN': 26.1, 'BLK': 0.3, 'REB': 4.8, 'PTS': 10.7}
+Lance Stephenson:202362:{'AST': 2.8, 'STL': 0.3, 'MIN': 16.8, 'BLK': 0.2, 'REB': 2.7, 'PTS': 5.7}
+Darren Collison:201954:{'AST': 5.8, 'STL': 0.9, 'MIN': 27.9, 'BLK': 0.1, 'REB': 2.5, 'PTS': 12.2}
+Joe Young:1626202:{'AST': 0.2, 'STL': 0.0, 'MIN': 1.8, 'BLK': 0.0, 'REB': 0.3, 'PTS': 1.3}
+Victor Oladipo:203506:{'AST': 3.5, 'STL': 0.9, 'MIN': 33.0, 'BLK': 0.4, 'REB': 4.6, 'PTS': 13.1}
+Cory Joseph:202709:{'AST': 4.6, 'STL': 1.0, 'MIN': 27.6, 'BLK': 0.5, 'REB': 4.1, 'PTS': 10.1}
+Domantas Sabonis:1627734:{'AST': 0.5, 'STL': 0.5, 'MIN': 16.0, 'BLK': 0.3, 'REB': 2.9, 'PTS': 6.1}
+Thaddeus Young:201152:{'AST': 1.7, 'STL': 0.9, 'MIN': 30.3, 'BLK': 0.2, 'REB': 7.9, 'PTS': 13.3}
+Al Jefferson:2744:{'AST': 0.5, 'STL': 0.3, 'MIN': 11.1, 'BLK': 0.1, 'REB': 3.8, 'PTS': 6.0}
+Myles Turner:1626167:{'AST': 1.5, 'STL': 0.7, 'MIN': 33.9, 'BLK': 2.2, 'REB': 8.4, 'PTS': 13.4}
+Glenn Robinson III:203922:{'AST': 0.4, 'STL': 0.7, 'MIN': 15.8, 'BLK': 0.3, 'REB': 3.3, 'PTS': 5.0}
+Bojan Bogdanovic:202711:{'AST': 1.0, 'STL': 0.4, 'MIN': 21.2, 'BLK': 0.1, 'REB': 3.4, 'PTS': 9.6}

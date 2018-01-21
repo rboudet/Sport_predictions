@@ -1,0 +1,12 @@
+Andre Drummond:203083:{'AST': 1.7, 'STL': 1.0, 'MIN': 26.2, 'BLK': 0.9, 'REB': 12.1, 'PTS': 7.7}
+Reggie Jackson:202704:{'AST': 4.4, 'STL': 0.5, 'MIN': 23.8, 'BLK': 0.2, 'REB': 1.9, 'PTS': 11.8}
+Stanley Johnson:1626169:{'AST': 1.6, 'STL': 0.6, 'MIN': 23.6, 'BLK': 0.3, 'REB': 2.8, 'PTS': 4.1}
+Henry Ellenson:1627740:{'AST': 0.6, 'STL': 0.1, 'MIN': 11.3, 'BLK': 0.1, 'REB': 3.3, 'PTS': 4.9}
+Langston Galloway:204038:{'AST': 2.0, 'STL': 0.3, 'MIN': 23.7, 'BLK': 0.1, 'REB': 2.6, 'PTS': 7.6}
+Ish Smith:202397:{'AST': 5.8, 'STL': 0.1, 'MIN': 29.8, 'BLK': 0.3, 'REB': 3.8, 'PTS': 16.0}
+Avery Bradley:202340:{'AST': 2.1, 'STL': 1.0, 'MIN': 34.1, 'BLK': 0.1, 'REB': 5.5, 'PTS': 13.3}
+Reggie Bullock:203493:{'AST': 1.1, 'STL': 0.8, 'MIN': 18.0, 'BLK': 0.0, 'REB': 2.8, 'PTS': 6.0}
+Jon Leuer:202720:{'AST': 0.9, 'STL': 0.3, 'MIN': 20.2, 'BLK': 0.2, 'REB': 4.4, 'PTS': 6.9}
+Tobias Harris:202699:{'AST': 2.1, 'STL': 1.2, 'MIN': 29.2, 'BLK': 0.2, 'REB': 4.5, 'PTS': 14.7}
+Anthony Tolliver:201229:{'AST': 1.8, 'STL': 0.2, 'MIN': 20.4, 'BLK': 0.8, 'REB': 2.9, 'PTS': 7.4}
+Boban Marjanovic:1626246:{'AST': 0.3, 'STL': 0.4, 'MIN': 12.0, 'BLK': 0.4, 'REB': 5.0, 'PTS': 9.5}

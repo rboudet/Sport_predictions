@@ -1,0 +1,14 @@
+Marquese Chriss:1627737:{'AST': 1.4, 'STL': 0.8, 'MIN': 26.3, 'BLK': 1.1, 'REB': 6.0, 'PTS': 11.4}
+Devin Booker:1626164:{'AST': 5.3, 'STL': 1.6, 'MIN': 37.5, 'BLK': 0.2, 'REB': 3.8, 'PTS': 30.2}
+Isaiah Canaan:203477:{'AST': 0.6, 'STL': 0.3, 'MIN': 6.6, 'BLK': 0.0, 'REB': 0.4, 'PTS': 1.8}
+Jared Dudley:201162:{'AST': 3.7, 'STL': 1.2, 'MIN': 25.2, 'BLK': 0.2, 'REB': 4.4, 'PTS': 8.9}
+Tyson Chandler:2199:{'AST': 0.7, 'STL': 0.9, 'MIN': 25.0, 'BLK': 0.7, 'REB': 8.9, 'PTS': 7.4}
+Tyler Ulis:1627755:{'AST': 7.7, 'STL': 0.9, 'MIN': 38.2, 'BLK': 0.1, 'REB': 3.8, 'PTS': 17.4}
+Brandon Knight:202688:{'AST': 2.2, 'STL': 0.2, 'MIN': 17.5, 'BLK': 0.2, 'REB': 1.5, 'PTS': 7.7}
+TJ Warren:203933:{'AST': 1.2, 'STL': 1.5, 'MIN': 35.9, 'BLK': 0.8, 'REB': 7.6, 'PTS': 17.7}
+Greg Monroe:202328:{'AST': 2.6, 'STL': 0.7, 'MIN': 22.3, 'BLK': 0.1, 'REB': 5.8, 'PTS': 10.9}
+Alan Williams:1626210:{'AST': 0.6, 'STL': 0.8, 'MIN': 20.1, 'BLK': 0.4, 'REB': 8.4, 'PTS': 9.5}
+Alex Len:203458:{'AST': 0.5, 'STL': 0.5, 'MIN': 21.2, 'BLK': 1.5, 'REB': 6.9, 'PTS': 10.0}
+Danuel House:1627863:{'AST': 0.0, 'STL': 0.0, 'MIN': 0.8, 'BLK': 0.0, 'REB': 1.0, 'PTS': 0.0}
+Troy Daniels:203584:{'AST': 1.2, 'STL': 0.1, 'MIN': 21.4, 'BLK': 0.0, 'REB': 2.3, 'PTS': 9.1}
+Dragan Bender:1627733:{'AST': 1.0, 'STL': 0.1, 'MIN': 16.3, 'BLK': 0.6, 'REB': 3.3, 'PTS': 3.8}

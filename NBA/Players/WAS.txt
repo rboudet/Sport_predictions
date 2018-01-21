@@ -1,0 +1,14 @@
+Chris McCullough:1626191:{'AST': 0.1, 'STL': 0.2, 'MIN': 4.6, 'BLK': 0.0, 'REB': 0.9, 'PTS': 1.9}
+John Wall:202322:{'AST': 9.7, 'STL': 2.5, 'MIN': 33.8, 'BLK': 0.6, 'REB': 3.6, 'PTS': 25.0}
+Bradley Beal:203078:{'AST': 3.4, 'STL': 1.1, 'MIN': 35.5, 'BLK': 0.4, 'REB': 2.3, 'PTS': 22.9}
+Markieff Morris:202693:{'AST': 0.5, 'STL': 0.5, 'MIN': 26.8, 'BLK': 0.3, 'REB': 5.4, 'PTS': 13.0}
+Tim Frazier:204025:{'AST': 5.1, 'STL': 0.9, 'MIN': 24.5, 'BLK': 0.0, 'REB': 2.2, 'PTS': 5.0}
+Sheldon Mac:1627815:{'AST': 0.0, 'STL': 0.0, 'MIN': 5.5, 'BLK': 0.1, 'REB': 0.8, 'PTS': 2.3}
+Kelly Oubre Jr.:1626162:{'AST': 0.7, 'STL': 1.1, 'MIN': 27.9, 'BLK': 0.4, 'REB': 4.9, 'PTS': 11.4}
+Marcin Gortat:101162:{'AST': 1.9, 'STL': 0.4, 'MIN': 23.8, 'BLK': 0.5, 'REB': 6.7, 'PTS': 9.3}
+Jason Smith:201160:{'AST': 0.7, 'STL': 0.1, 'MIN': 17.5, 'BLK': 0.6, 'REB': 4.5, 'PTS': 7.2}
+Jodie Meeks:201975:{'AST': 0.8, 'STL': 0.6, 'MIN': 18.1, 'BLK': 0.2, 'REB': 1.7, 'PTS': 9.4}
+Otto Porter Jr.:203490:{'AST': 1.1, 'STL': 0.6, 'MIN': 24.4, 'BLK': 0.4, 'REB': 5.3, 'PTS': 9.2}
+Ian Mahinmi:101133:{'AST': 0.8, 'STL': 1.4, 'MIN': 19.5, 'BLK': 0.7, 'REB': 5.4, 'PTS': 6.7}
+Mike Scott:203118:{'AST': 0.7, 'STL': 0.2, 'MIN': 10.9, 'BLK': 0.2, 'REB': 1.6, 'PTS': 2.4}
+Tomas Satoransky:203107:{'AST': 1.3, 'STL': 0.4, 'MIN': 10.1, 'BLK': 0.1, 'REB': 0.6, 'PTS': 2.5}

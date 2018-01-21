@@ -1,0 +1,15 @@
+Patrick McCaw:1627775:{'AST': 1.2, 'STL': 0.8, 'MIN': 16.5, 'BLK': 0.2, 'REB': 1.4, 'PTS': 4.6}
+JaVale McGee:201580:{'AST': 0.1, 'STL': 0.5, 'MIN': 11.6, 'BLK': 1.8, 'REB': 3.9, 'PTS': 8.6}
+David West:2561:{'AST': 2.9, 'STL': 0.3, 'MIN': 15.9, 'BLK': 1.1, 'REB': 3.5, 'PTS': 6.3}
+Quinn Cook:1626188:{'AST': 1.7, 'STL': 0.4, 'MIN': 12.7, 'BLK': 0.0, 'REB': 0.4, 'PTS': 6.2}
+Kevon Looney:1626172:{'AST': 0.4, 'STL': 0.1, 'MIN': 4.6, 'BLK': 0.1, 'REB': 1.4, 'PTS': 1.0}
+Nick Young:201156:{'AST': 0.3, 'STL': 0.5, 'MIN': 22.9, 'BLK': 0.0, 'REB': 2.2, 'PTS': 9.4}
+Andre Iguodala:2738:{'AST': 3.7, 'STL': 0.9, 'MIN': 26.3, 'BLK': 0.8, 'REB': 4.2, 'PTS': 11.4}
+Klay Thompson:202691:{'AST': 1.8, 'STL': 1.0, 'MIN': 32.9, 'BLK': 0.9, 'REB': 3.6, 'PTS': 22.5}
+Damian Jones:1627745:{'AST': 0.0, 'STL': 0.1, 'MIN': 8.5, 'BLK': 0.4, 'REB': 2.3, 'PTS': 1.9}
+Omri Casspi:201956:{'AST': 0.9, 'STL': 1.3, 'MIN': 16.9, 'BLK': 0.1, 'REB': 1.7, 'PTS': 3.6}
+Draymond Green:203110:{'AST': 6.0, 'STL': 1.5, 'MIN': 30.9, 'BLK': 1.0, 'REB': 6.2, 'PTS': 10.3}
+Zaza Pachulia:2585:{'AST': 1.5, 'STL': 0.2, 'MIN': 16.6, 'BLK': 0.3, 'REB': 4.9, 'PTS': 4.6}
+Stephen Curry:201939:{'AST': 8.6, 'STL': 2.4, 'MIN': 33.2, 'BLK': 0.4, 'REB': 4.6, 'PTS': 28.4}
+Shaun Livingston:2733:{'AST': 2.9, 'STL': 0.4, 'MIN': 19.2, 'BLK': 0.4, 'REB': 2.8, 'PTS': 6.4}
+Kevin Durant:201142:{'AST': 4.7, 'STL': 0.6, 'MIN': 28.3, 'BLK': 1.1, 'REB': 7.6, 'PTS': 21.7}

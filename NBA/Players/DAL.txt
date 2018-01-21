@@ -1,0 +1,12 @@
+Nerlens Noel:203457:{'AST': 0.8, 'STL': 1.4, 'MIN': 20.0, 'BLK': 1.0, 'REB': 5.9, 'PTS': 8.2}
+J.J. Barea:200826:{'AST': 6.0, 'STL': 0.3, 'MIN': 19.9, 'BLK': 0.0, 'REB': 2.0, 'PTS': 10.6}
+Dwight Powell:203939:{'AST': 0.4, 'STL': 0.4, 'MIN': 18.4, 'BLK': 0.4, 'REB': 3.2, 'PTS': 8.5}
+Dorian Finney-Smith:1627827:{'AST': 1.2, 'STL': 0.6, 'MIN': 21.9, 'BLK': 0.4, 'REB': 3.8, 'PTS': 3.9}
+Yogi Ferrell:1627812:{'AST': 4.0, 'STL': 1.0, 'MIN': 27.9, 'BLK': 0.3, 'REB': 2.8, 'PTS': 11.4}
+Josh McRoberts:201177:{'AST': 2.4, 'STL': 0.3, 'MIN': 18.9, 'BLK': 0.1, 'REB': 2.8, 'PTS': 5.9}
+Wesley Matthews:202083:{'AST': 4.9, 'STL': 0.7, 'MIN': 31.7, 'BLK': 0.4, 'REB': 3.4, 'PTS': 8.7}
+Seth Curry:203552:{'AST': 1.9, 'STL': 0.8, 'MIN': 28.7, 'BLK': 0.1, 'REB': 1.8, 'PTS': 11.6}
+Devin Harris:2734:{'AST': 2.2, 'STL': 0.8, 'MIN': 16.8, 'BLK': 0.1, 'REB': 2.2, 'PTS': 8.5}
+Harrison Barnes:203084:{'AST': 1.2, 'STL': 0.9, 'MIN': 33.7, 'BLK': 0.0, 'REB': 3.6, 'PTS': 15.1}
+Dirk Nowitzki:1717:{'AST': 1.6, 'STL': 0.4, 'MIN': 26.1, 'BLK': 0.9, 'REB': 5.9, 'PTS': 13.3}
+Salah Mejri:1626257:{'AST': 0.2, 'STL': 0.2, 'MIN': 11.0, 'BLK': 0.3, 'REB': 3.4, 'PTS': 4.9}

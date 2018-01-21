@@ -1,0 +1,11 @@
+Marvin Williams:101107:{'AST': 0.9, 'STL': 1.1, 'MIN': 29.5, 'BLK': 1.1, 'REB': 7.2, 'PTS': 9.2}
+Jeremy Lamb:203087:{'AST': 1.0, 'STL': 0.8, 'MIN': 18.3, 'BLK': 0.3, 'REB': 3.8, 'PTS': 11.3}
+Nicolas Batum:201587:{'AST': 6.5, 'STL': 1.4, 'MIN': 30.1, 'BLK': 0.3, 'REB': 4.2, 'PTS': 13.9}
+Johnny O'Bryant III:203948:{'AST': 0.5, 'STL': 0.0, 'MIN': 7.3, 'BLK': 0.1, 'REB': 1.8, 'PTS': 3.6}
+Michael Carter-Williams:203487:{'AST': 2.4, 'STL': 0.9, 'MIN': 13.8, 'BLK': 0.4, 'REB': 1.7, 'PTS': 3.5}
+Dwight Howard:2730:{'AST': 1.8, 'STL': 0.4, 'MIN': 30.1, 'BLK': 1.1, 'REB': 12.2, 'PTS': 16.2}
+Michael Kidd-Gilchrist:203077:{'AST': 1.4, 'STL': 1.0, 'MIN': 28.4, 'BLK': 0.7, 'REB': 5.2, 'PTS': 10.6}
+Kemba Walker:202689:{'AST': 5.6, 'STL': 1.0, 'MIN': 35.9, 'BLK': 0.3, 'REB': 2.9, 'PTS': 26.4}
+Treveon Graham:1626203:{'AST': 0.1, 'STL': 0.4, 'MIN': 8.8, 'BLK': 0.1, 'REB': 0.9, 'PTS': 3.1}
+Cody Zeller:203469:{'AST': 2.0, 'STL': 1.1, 'MIN': 28.8, 'BLK': 0.9, 'REB': 6.2, 'PTS': 8.6}
+Frank Kaminsky:1626163:{'AST': 2.6, 'STL': 0.1, 'MIN': 25.1, 'BLK': 0.4, 'REB': 3.3, 'PTS': 12.5}

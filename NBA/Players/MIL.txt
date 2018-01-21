@@ -1,0 +1,15 @@
+Jason Terry:1891:{'AST': 1.1, 'STL': 0.3, 'MIN': 19.2, 'BLK': 0.2, 'REB': 1.5, 'PTS': 5.1}
+Eric Bledsoe:202339:{'AST': 6.9, 'STL': 1.5, 'MIN': 31.5, 'BLK': 0.8, 'REB': 4.3, 'PTS': 18.2}
+Thon Maker:1627748:{'AST': 0.8, 'STL': 0.2, 'MIN': 17.4, 'BLK': 0.8, 'REB': 3.7, 'PTS': 6.8}
+Matthew Dellavedova:203521:{'AST': 3.7, 'STL': 0.3, 'MIN': 23.8, 'BLK': 0.0, 'REB': 2.0, 'PTS': 6.8}
+Sean Kilpatrick:203930:{'AST': 2.1, 'STL': 0.5, 'MIN': 20.6, 'BLK': 0.1, 'REB': 4.1, 'PTS': 12.5}
+Jabari Parker:203953:{'AST': 3.0, 'STL': 0.8, 'MIN': 33.2, 'BLK': 0.8, 'REB': 7.5, 'PTS': 19.0}
+Malcolm Brogdon:1627763:{'AST': 4.9, 'STL': 1.0, 'MIN': 29.9, 'BLK': 0.3, 'REB': 4.0, 'PTS': 11.8}
+Rashad Vaughn:1626173:{'AST': 0.9, 'STL': 0.5, 'MIN': 10.5, 'BLK': 0.3, 'REB': 0.9, 'PTS': 3.9}
+Tony Snell:203503:{'AST': 1.0, 'STL': 1.3, 'MIN': 30.9, 'BLK': 0.0, 'REB': 1.5, 'PTS': 9.4}
+Khris Middleton:203114:{'AST': 3.0, 'STL': 1.7, 'MIN': 34.2, 'BLK': 0.1, 'REB': 5.4, 'PTS': 13.3}
+Joel Bolomboy:1627762:{'AST': 0.1, 'STL': 0.0, 'MIN': 4.7, 'BLK': 0.2, 'REB': 1.6, 'PTS': 1.9}
+DeAndre Liggins:202732:{'AST': 0.3, 'STL': 0.8, 'MIN': 8.5, 'BLK': 0.0, 'REB': 2.1, 'PTS': 1.4}
+John Henson:203089:{'AST': 0.5, 'STL': 0.4, 'MIN': 16.0, 'BLK': 1.7, 'REB': 5.2, 'PTS': 5.6}
+Giannis Antetokounmpo:203507:{'AST': 5.8, 'STL': 1.3, 'MIN': 36.6, 'BLK': 1.8, 'REB': 10.5, 'PTS': 22.3}
+Mirza Teletovic:203141:{'AST': 0.7, 'STL': 0.2, 'MIN': 18.1, 'BLK': 0.2, 'REB': 2.3, 'PTS': 6.2}

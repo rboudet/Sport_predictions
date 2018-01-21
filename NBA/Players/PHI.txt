@@ -1,0 +1,12 @@
+Jerryd Bayless:201573:{'AST': 4.3, 'STL': 0.0, 'MIN': 23.8, 'BLK': 0.0, 'REB': 4.0, 'PTS': 11.0}
+Justin Anderson:1626147:{'AST': 2.0, 'STL': 0.7, 'MIN': 26.4, 'BLK': 0.5, 'REB': 3.7, 'PTS': 10.7}
+Amir Johnson:101161:{'AST': 2.1, 'STL': 0.9, 'MIN': 20.8, 'BLK': 0.8, 'REB': 4.8, 'PTS': 7.4}
+Timothe Luwawu-Cabarrot:1627789:{'AST': 2.3, 'STL': 1.3, 'MIN': 33.1, 'BLK': 0.2, 'REB': 4.4, 'PTS': 15.9}
+Dario Saric:203967:{'AST': 2.3, 'STL': 0.8, 'MIN': 27.7, 'BLK': 0.4, 'REB': 6.9, 'PTS': 14.8}
+T.J. McConnell:204456:{'AST': 8.4, 'STL': 2.0, 'MIN': 31.6, 'BLK': 0.2, 'REB': 3.5, 'PTS': 9.1}
+James Michael McAdoo:203949:{'AST': 0.1, 'STL': 0.5, 'MIN': 8.5, 'BLK': 0.4, 'REB': 1.8, 'PTS': 2.6}
+JJ Redick:200755:{'AST': 1.4, 'STL': 0.8, 'MIN': 29.2, 'BLK': 0.3, 'REB': 2.2, 'PTS': 17.2}
+Joel Embiid:203954:{'AST': 3.0, 'STL': 1.2, 'MIN': 26.8, 'BLK': 2.6, 'REB': 8.8, 'PTS': 23.4}
+Richaun Holmes:1626158:{'AST': 1.5, 'STL': 1.0, 'MIN': 30.5, 'BLK': 0.9, 'REB': 7.9, 'PTS': 14.7}
+Robert Covington:203496:{'AST': 1.1, 'STL': 1.8, 'MIN': 33.2, 'BLK': 1.3, 'REB': 8.3, 'PTS': 15.9}
+Trevor Booker:202344:{'AST': 1.0, 'STL': 0.6, 'MIN': 17.9, 'BLK': 0.2, 'REB': 5.6, 'PTS': 8.4}

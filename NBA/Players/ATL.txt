@@ -1,0 +1,13 @@
+Marco Belinelli:201158:{'AST': 2.0, 'STL': 0.5, 'MIN': 21.9, 'BLK': 0.1, 'REB': 2.3, 'PTS': 11.7}
+Malcolm Delaney:1627098:{'AST': 2.3, 'STL': 0.4, 'MIN': 14.8, 'BLK': 0.0, 'REB': 1.7, 'PTS': 4.0}
+Ersan Ilyasova:101141:{'AST': 2.1, 'STL': 0.5, 'MIN': 25.8, 'BLK': 0.3, 'REB': 6.8, 'PTS': 10.9}
+Luke Babbitt:202337:{'AST': 0.7, 'STL': 0.3, 'MIN': 15.9, 'BLK': 0.0, 'REB': 1.9, 'PTS': 4.4}
+Taurean Prince:1627752:{'AST': 1.6, 'STL': 1.4, 'MIN': 31.0, 'BLK': 0.5, 'REB': 3.9, 'PTS': 11.4}
+Dewayne Dedmon:203473:{'AST': 0.5, 'STL': 0.5, 'MIN': 18.1, 'BLK': 1.1, 'REB': 7.1, 'PTS': 4.4}
+Nicolas Brussino:1627852:{'AST': 1.8, 'STL': 0.5, 'MIN': 19.3, 'BLK': 0.2, 'REB': 3.5, 'PTS': 6.9}
+Dennis Schroder:203471:{'AST': 6.8, 'STL': 1.0, 'MIN': 34.7, 'BLK': 0.4, 'REB': 4.2, 'PTS': 19.5}
+Miles Plumlee:203101:{'AST': 0.1, 'STL': 0.7, 'MIN': 12.8, 'BLK': 0.1, 'REB': 2.7, 'PTS': 1.9}
+Isaiah Taylor:1627819:{'AST': 0.8, 'STL': 0.3, 'MIN': 13.0, 'BLK': 0.3, 'REB': 0.8, 'PTS': 0.8}
+Kent Bazemore:203145:{'AST': 2.2, 'STL': 1.4, 'MIN': 24.3, 'BLK': 0.4, 'REB': 2.7, 'PTS': 11.9}
+Mike Muscala:203488:{'AST': 1.9, 'STL': 0.5, 'MIN': 16.9, 'BLK': 0.4, 'REB': 3.3, 'PTS': 6.3}
+DeAndre' Bembry:1627761:{'AST': 0.8, 'STL': 0.3, 'MIN': 8.7, 'BLK': 0.2, 'REB': 1.7, 'PTS': 2.1}

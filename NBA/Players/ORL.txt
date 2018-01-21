@@ -1,0 +1,13 @@
+Aaron Gordon:203932:{'AST': 1.6, 'STL': 1.5, 'MIN': 34.4, 'BLK': 0.7, 'REB': 7.5, 'PTS': 19.1}
+Elfrid Payton:203901:{'AST': 9.7, 'STL': 0.6, 'MIN': 31.2, 'BLK': 0.3, 'REB': 6.1, 'PTS': 15.5}
+Arron Afflalo:201167:{'AST': 1.4, 'STL': 0.2, 'MIN': 26.0, 'BLK': 0.0, 'REB': 2.6, 'PTS': 10.1}
+Marreese Speights:201578:{'AST': 1.0, 'STL': 0.2, 'MIN': 14.3, 'BLK': 0.7, 'REB': 4.4, 'PTS': 5.9}
+Shelvin Mack:202714:{'AST': 2.4, 'STL': 0.7, 'MIN': 22.7, 'BLK': 0.2, 'REB': 2.8, 'PTS': 9.2}
+Mario Hezonja:1626209:{'AST': 1.8, 'STL': 0.6, 'MIN': 21.9, 'BLK': 0.5, 'REB': 3.1, 'PTS': 6.5}
+Nikola Vucevic:202696:{'AST': 2.9, 'STL': 1.1, 'MIN': 29.1, 'BLK': 0.9, 'REB': 11.0, 'PTS': 13.8}
+Evan Fournier:203095:{'AST': 2.2, 'STL': 1.0, 'MIN': 31.7, 'BLK': 0.1, 'REB': 2.2, 'PTS': 18.4}
+Bismack Biyombo:202687:{'AST': 0.9, 'STL': 0.3, 'MIN': 15.6, 'BLK': 0.9, 'REB': 5.4, 'PTS': 5.4}
+D.J. Augustin:201571:{'AST': 1.6, 'STL': 0.4, 'MIN': 16.4, 'BLK': 0.0, 'REB': 1.8, 'PTS': 5.7}
+Jonathon Simmons:203613:{'AST': 1.9, 'STL': 0.4, 'MIN': 19.7, 'BLK': 0.0, 'REB': 1.6, 'PTS': 6.6}
+Terrence Ross:203082:{'AST': 2.0, 'STL': 1.7, 'MIN': 29.9, 'BLK': 0.5, 'REB': 2.3, 'PTS': 13.2}
+Adreian Payne:203940:{'AST': 0.4, 'STL': 0.4, 'MIN': 5.7, 'BLK': 0.3, 'REB': 1.9, 'PTS': 1.8}

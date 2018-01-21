@@ -1,0 +1,13 @@
+DeMarcus Cousins:202326:{'AST': 4.0, 'STL': 1.5, 'MIN': 33.6, 'BLK': 1.2, 'REB': 11.6, 'PTS': 25.9}
+Ian Clark:203546:{'AST': 1.4, 'STL': 0.3, 'MIN': 18.2, 'BLK': 0.1, 'REB': 2.2, 'PTS': 6.1}
+Omer Asik:201600:{'AST': 0.4, 'STL': 0.1, 'MIN': 10.0, 'BLK': 0.2, 'REB': 3.0, 'PTS': 1.1}
+Rajon Rondo:200765:{'AST': 8.0, 'STL': 1.9, 'MIN': 29.5, 'BLK': 0.1, 'REB': 6.4, 'PTS': 11.3}
+Jrue Holiday:201950:{'AST': 7.5, 'STL': 0.8, 'MIN': 31.6, 'BLK': 0.6, 'REB': 3.9, 'PTS': 13.0}
+Cheick Diallo:1627767:{'AST': 0.2, 'STL': 0.2, 'MIN': 11.5, 'BLK': 0.5, 'REB': 4.7, 'PTS': 4.8}
+Jameer Nelson:2749:{'AST': 6.4, 'STL': 0.8, 'MIN': 31.1, 'BLK': 0.1, 'REB': 3.3, 'PTS': 9.7}
+Anthony Davis:203076:{'AST': 1.6, 'STL': 1.4, 'MIN': 36.0, 'BLK': 1.7, 'REB': 11.8, 'PTS': 29.2}
+Tony Allen:2754:{'AST': 2.1, 'STL': 1.2, 'MIN': 24.5, 'BLK': 0.2, 'REB': 5.6, 'PTS': 7.9}
+Dante Cunningham:201967:{'AST': 0.2, 'STL': 0.8, 'MIN': 23.2, 'BLK': 0.5, 'REB': 4.0, 'PTS': 8.3}
+Alexis Ajinca:201582:{'AST': 0.3, 'STL': 0.5, 'MIN': 16.8, 'BLK': 0.4, 'REB': 5.8, 'PTS': 7.8}
+Solomon Hill:203524:{'AST': 1.2, 'STL': 1.1, 'MIN': 32.7, 'BLK': 0.4, 'REB': 4.2, 'PTS': 7.7}
+E'Twaun Moore:202734:{'AST': 2.3, 'STL': 0.6, 'MIN': 22.6, 'BLK': 0.4, 'REB': 1.7, 'PTS': 7.9}
